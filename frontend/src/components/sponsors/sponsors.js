@@ -5,7 +5,7 @@ const Sponsors = () => {
     return (
         <div className='sponsorsMain' id="sponsors">
             <div className='sponsorHeader'>
-                <h2>Our Partners</h2>
+                <h2>Previous Partners</h2>
             </div>
             <div className='sponsors'>
                 <div>
